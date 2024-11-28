@@ -1,12 +1,13 @@
-👋 Hi, I’m @zoibana, Senior Fullstack Web Developer
+👋 Hi, I’m @zoibana, Senior Fullstack Web Developer,
 
-🖥 I have been programming for over 15 years with PHP, JS, Objective C and more
+📍 Amsterdam, The Netherlands.
 
-🛠 I create sites of any complexity of the highest quality in a REALLY short time
+🖥 I've been programming since 2005
+
+🛠 I create websites
 
 💰 Interesting in trendy services/startups and big money
 
 ✉️ Contact me: 
-- Telegram @zoibana
-- Skype @zoibana
 - Email zoibana at gmail com
+- Telegram @zoibana
